@@ -2,6 +2,14 @@
  "suite": "beta",
  "entries": [
   {
+   "version": "0.2.123",
+   "date": "2026-11-13",
+   "commit": "666901641e94da4401994887cd4eaa021d84e847",
+   "changes": [
+    "Move from Windows: remove a moved game or program from PhoenixGe again (Windows copy untouched)"
+   ]
+  },
+  {
    "version": "0.2.122",
    "date": "2026-11-13",
    "commit": "97d70311b81522f6d05820932e3d8ce1fe0d4110",
@@ -78,5 +86,5 @@
    ]
   }
  ],
- "updated": "2026-11-13T20:41:30Z"
+ "updated": "2026-11-13T21:08:25Z"
 }
