@@ -2,6 +2,14 @@
  "suite": "beta",
  "entries": [
   {
+   "version": "0.2.120",
+   "date": "2026-11-13",
+   "commit": "0c3aafb554d7669608897d6413d533f474eeb6e1",
+   "changes": [
+    "FPS for games started from Flatpak launchers (Heroic, Steam, Lutris)"
+   ]
+  },
+  {
    "version": "0.2.119",
    "date": "2026-11-13",
    "commit": "419effeb275a48c0c0406fe749332e8d38629a91",
@@ -54,5 +62,5 @@
    ]
   }
  ],
- "updated": "2026-11-13T20:15:01Z"
+ "updated": "2026-11-13T20:34:36Z"
 }
