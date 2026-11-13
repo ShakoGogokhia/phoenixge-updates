@@ -4,43 +4,48 @@ Hash: SHA512
 Architectures: amd64 all
 Codename: stable
 Components: main
-Date: Fri, 13 Nov 2026 12:14:58 +0000
+Date: Fri, 13 Nov 2026 23:39:18 +0000
+Description: PhoenixGe OS updates (stable channel)
 Label: PhoenixGe
 Origin: PhoenixGe
 Suite: stable
 MD5Sum:
- 4601cafe99e9d0af6e0dd1206afb6512            12995 main/binary-all/Packages
- 11856831772f63fed72bcdffea85d052             3984 main/binary-all/Packages.gz
- 4601cafe99e9d0af6e0dd1206afb6512            12995 main/binary-amd64/Packages
- 11856831772f63fed72bcdffea85d052             3984 main/binary-amd64/Packages.gz
+ ee16803194baa978f225d5bded472a52             4519 changelog.json
+ 137b067f7a7eb9115fd8b84bf5e03020            13843 main/binary-all/Packages
+ b3714f91bf682e9307d7945e8eec3ec7             4011 main/binary-all/Packages.gz
+ 137b067f7a7eb9115fd8b84bf5e03020            13843 main/binary-amd64/Packages
+ b3714f91bf682e9307d7945e8eec3ec7             4011 main/binary-amd64/Packages.gz
 SHA1:
- 13c20eedaae968dedb3bd8f55b169fc9d0e7e53f            12995 main/binary-all/Packages
- 0f2bb3262cc13385793c6e806162071e99f4aac8             3984 main/binary-all/Packages.gz
- 13c20eedaae968dedb3bd8f55b169fc9d0e7e53f            12995 main/binary-amd64/Packages
- 0f2bb3262cc13385793c6e806162071e99f4aac8             3984 main/binary-amd64/Packages.gz
+ 0125e10ffefa3e989fcb038cc04d7dc00c16e922             4519 changelog.json
+ 3f76632fe89ef5fa6287ff944e6bb5a61e94a90c            13843 main/binary-all/Packages
+ 8f5a0630b2633dda25585bf29b4bdcb51ccc822c             4011 main/binary-all/Packages.gz
+ 3f76632fe89ef5fa6287ff944e6bb5a61e94a90c            13843 main/binary-amd64/Packages
+ 8f5a0630b2633dda25585bf29b4bdcb51ccc822c             4011 main/binary-amd64/Packages.gz
 SHA256:
- 47287eeec517590527ddd307095710d4cf5345a83a302b05a14d158700c35787            12995 main/binary-all/Packages
- b5bb5846a91271bc031a51bca8f8aa6e4ce031b620c720dec552af91c9fde44e             3984 main/binary-all/Packages.gz
- 47287eeec517590527ddd307095710d4cf5345a83a302b05a14d158700c35787            12995 main/binary-amd64/Packages
- b5bb5846a91271bc031a51bca8f8aa6e4ce031b620c720dec552af91c9fde44e             3984 main/binary-amd64/Packages.gz
+ b811361c9601e5f2a550e8f7a7bec7be08897a6a384640296e5aba18d6dfaf3a             4519 changelog.json
+ 4be3a0f71e1aa5bdcd206977a294069f01f9daeb84e289bcbf4660344f32eb79            13843 main/binary-all/Packages
+ 248ad59331224fec10030ce956408b91012397201789e326470f06fa00983d44             4011 main/binary-all/Packages.gz
+ 4be3a0f71e1aa5bdcd206977a294069f01f9daeb84e289bcbf4660344f32eb79            13843 main/binary-amd64/Packages
+ 248ad59331224fec10030ce956408b91012397201789e326470f06fa00983d44             4011 main/binary-amd64/Packages.gz
 SHA512:
- c8c673d8f51b24820fc77ae617105f41d16654666db203d5b6eca08dd246d1ef2fa0f6ba21a18bad26d8725722ac253642502dc76a4ac242020df34f8acdf850            12995 main/binary-all/Packages
- 3cc478d215ff5f2eb976942965dca462c4bfe962f1c328c26abe8110f109336b1d988e1b71ff3a92097f5d4500872a6084a1223b66fa081c69536724af02c73d             3984 main/binary-all/Packages.gz
- c8c673d8f51b24820fc77ae617105f41d16654666db203d5b6eca08dd246d1ef2fa0f6ba21a18bad26d8725722ac253642502dc76a4ac242020df34f8acdf850            12995 main/binary-amd64/Packages
- 3cc478d215ff5f2eb976942965dca462c4bfe962f1c328c26abe8110f109336b1d988e1b71ff3a92097f5d4500872a6084a1223b66fa081c69536724af02c73d             3984 main/binary-amd64/Packages.gz
+ 3f95c9b678a81503509725ac2427831a2e4a398871d3c0ce9f68c024fbcc2a501d70484d6e7504c04284f5c2c284ca59dc5ec97f7264edcda5c9c56c15ea9b4f             4519 changelog.json
+ 539939a18b4e7e11cb5063e87d36be91fc0d29ec48f3510781fe10c13a6239b450c5bae341095da26b4630180a90b5728773bff92184de1762fc5a3c8c5d4b8c            13843 main/binary-all/Packages
+ 9b6db4bbe1adbf7c1fa3d3a77f67de8dd6e036e3f5cf0c8d86233fbf0aefa47974b6dee38eb39f608a365453ce5adb3e9938e9a0f1f23191a4944c768fc41457             4011 main/binary-all/Packages.gz
+ 539939a18b4e7e11cb5063e87d36be91fc0d29ec48f3510781fe10c13a6239b450c5bae341095da26b4630180a90b5728773bff92184de1762fc5a3c8c5d4b8c            13843 main/binary-amd64/Packages
+ 9b6db4bbe1adbf7c1fa3d3a77f67de8dd6e036e3f5cf0c8d86233fbf0aefa47974b6dee38eb39f608a365453ce5adb3e9938e9a0f1f23191a4944c768fc41457             4011 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEr4qrl4BVYk9zKcai8hO/Pa+Wi/AFAmr2/0IACgkQ8hO/Pa+W
-i/AWthAAh9WAmOlljBeFHsNEXRdwkrOKHF6FTkBN8dbxmvkMuT3fyzMZaf8zhuwD
-86zxG1BAHkXCni+dOAWi7EKpfI/060nZp+zyuUY0hMosWe++oOpyyypwhsZ+gQVu
-FNQarC64otSf81l2kG/WIiu9AqO5wWWC0dsy/XTjYGzL8mELjCn+8oavl5VguOFz
-cupX50k34JqaF3u5/CbCFaFQwEDUjXFt7YAcy1YnM1NrNxMcxJKayGzqLWkshU8M
-LsfeAlmn3P9OEzO9Y+FC4eq1qlZMOgVB+GRo/UXxIvk5e8eAoK/Pk0oE4EQ8VA8N
-mwMxE+d0sGA17rfZeweIfQxw6p2przxG7BJyQC8YeIfFZoAMATKWZdtEB2h2+b2e
-PCEnMTmusYVUOyx+uK92Z9nsO2B+4lWRgoGPjVZ62VB6ls14eA7vGAdpgTUI46A0
-2aLGXNN41uqD7hOv1T9wqY5VNUq+xaOtg+wExQnAIrsGKF4HCT2wJrMHB11wAlcT
-IIzIsBdpy28q8R5hhIhFkl4Wa43V591lC8iwzPvsFUt0pqe1IAgs7RbEqifyczcs
-tQKQsg9kuE0I7LUce6w9632qhBbHbg07nyc32/KAqEMh7N82D9L2fx7SQiNEQThC
-UDd8wdXnie6ggTYikwSJnqvEb4QRKMvsNMacjP0oPZLYL15WLuI=
-=yZl0
+iQIzBAEBCgAdFiEEG6HrOeXBI06ZGavdWUphTv9CXpAFAmr3n6YACgkQWUphTv9C
+XpCFFRAAiMiTqGI2oN/Nww7B+90DyPs57tj7JM2k/GGDBQ+Ri49EjYvWOKgnJyx2
+OXcIdeS5GnB6mNp4ETBVh/edQ2GlRUBmZG55MK6uq0ox1e5jxYTkDy0lxqIzUIdQ
+9fB0wwRz7cquFtsNLPBF4wJAMK1BCv6JRCEfcECHVW1rkBvuDMwdW488vind0zuj
+aJcDvlOZRbJquLGjlNi/iShYFE37K9vK0P4MYh/YMqBO+T0dPX8q4yIp6McuYYFG
+4svMhwKwgIisqAnRDFlSE+WCilMo4qdQYczRvLrSQbhq6U95TCjSiNDG6Cl8kb2e
+vIsCHTfz70a1j0XgdM2WXjY9CjkIhmhFA+KiuLmWt2VnRiQtrIJS+23Wr+cZxBIj
+tv4CBSYjp9pYwKarr3nRyQteaGxo34mOvOb33+usadNj/xms/uyxJ/KidwovEAq4
+K4ee3j3A/RpFb5ZsWTtPQJrebdTcsPoYUT0KVWX/wLv0e+mdvwA/Kdb/LZSAd6KB
+XSIi51xW1DpBwfRMe5lAPZJuW6WoOrueFvm1KKtiIrbzwgV1G33xrG2ItxV0m+Du
+p0rXx+UNAVXqmQg3e04s/gs9YI404P3cmeCWe6asEgPLzEn/t17Ov08ksBTmF/eT
+Z67bsL8YAW55Ml+9KGzPf43UbsTJhN09GNfKf27ywgx0X0hcPbw=
+=zsZP
 -----END PGP SIGNATURE-----

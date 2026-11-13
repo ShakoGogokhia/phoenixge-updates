@@ -2,6 +2,16 @@
  "suite": "beta",
  "entries": [
   {
+   "version": "0.2.115",
+   "date": "2026-11-13",
+   "commit": "cd77b280194e3ceb8105471a94d38b82c0559350",
+   "changes": [
+    "Trust a second update signing key (laptop key 1BA1EB39...) next to the original one",
+    "Real-hardware fixes: apt codename (-backports broke every apt update), NVIDIA 550 DKMS build on kernel 6.12.116, laptop mic level + Bluetooth mic default, autoupdate waits for apt lock",
+    "Really keep KDE Welcome Center closed: kded module id variants + plasma-welcomerc LastSeenVersion/ShowUpdatePage"
+   ]
+  },
+  {
    "version": "0.2.110",
    "date": "2026-11-13",
    "commit": "cad5144f8e9e4d19859796a9dab82b42b20f12f9",
@@ -20,5 +30,5 @@
    ]
   }
  ],
- "updated": "2026-11-13T13:22:19Z"
+ "updated": "2026-11-13T23:39:16Z"
 }
