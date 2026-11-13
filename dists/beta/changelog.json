@@ -2,6 +2,14 @@
  "suite": "beta",
  "entries": [
   {
+   "version": "0.2.119",
+   "date": "2026-11-13",
+   "commit": "419effeb275a48c0c0406fe749332e8d38629a91",
+   "changes": [
+    "Install the Flatpak NVIDIA GL extension matching the host driver"
+   ]
+  },
+  {
    "version": "0.2.118",
    "date": "2026-11-13",
    "commit": "f664e8b03375aba5d8e674a760d86e3d34fecd43",
@@ -46,5 +54,5 @@
    ]
   }
  ],
- "updated": "2026-11-13T19:58:52Z"
+ "updated": "2026-11-13T20:15:01Z"
 }
