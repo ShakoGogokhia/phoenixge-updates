@@ -42,19 +42,19 @@ Description: PhoenixGe OS desktop: themes, start menu, widgets, login screen, to
 
 Package: phoenixge-desktop
 Architecture: all
-Version: 0.2.98
+Version: 0.2.117
 Priority: optional
 Section: x11
 Maintainer: PhoenixGe <updates@phoenixge.invalid>
-Installed-Size: 33864
-Depends: python3, phoenixge-wallpaper-ashlight (>= 1.4), phoenixge-wallpaper-borjgali (>= 1.4), phoenixge-wallpaper-cyberhud (>= 1.4), phoenixge-wallpaper-forestember (>= 1.4), phoenixge-wallpaper-gamemode (>= 1.4), phoenixge-wallpaper-glasslight (>= 1.4), phoenixge-wallpaper-infernoneon (>= 1.4), phoenixge-wallpaper-kolkhigold (>= 1.4), phoenixge-wallpaper-mono (>= 1.4), phoenixge-wallpaper-obsidian (>= 1.4), phoenixge-wallpaper-sunrisepastel (>= 1.4), phoenixge-wallpaper-ember (>= 1.4), papirus-icon-theme, plasma-desktop, sddm, kde-cli-tools, ufw, plasma-firewall, keepassxc, plasma-vault, gocryptfs, wireguard-tools, fprintd, libpam-fprintd, power-profiles-daemon, steam-devices, gnome-network-displays, i2c-tools, qml6-module-qtquick-particles
-Recommends: distrobox, podman, python3-pyside6.qtwidgets, wine, gamemode, mangohud, timeshift, inotify-tools, python3-dbus, pkexec, btrfs-progs, kdialog, smartmontools, nvme-cli, lm-sensors, upower, switcheroo-control, libkscreen-bin, libnotify-bin
-Filename: pool/main/phoenixge-desktop_0.2.98_all.deb
-Size: 23850868
-MD5sum: aab838bdccfba3c4940cb15ffd7cca5f
-SHA1: 70bf10cdf49214f5dba17b54061d4e980dbab96d
-SHA256: 589d6188ce89411612eff4d60b7faea6490bd59810fe9132d260672d6259ee44
-SHA512: ed6345dba3a9abc96000d4eecd740c8e365ac0c991a68108121a6978959e8b2ed7c7c472a5c77ea20abfc2d1da89c19542872ff5a82bc5f60cecb819b6f6fa2e
+Installed-Size: 34880
+Depends: python3, phoenixge-wallpaper-ashlight (>= 1.4), phoenixge-wallpaper-borjgali (>= 1.4), phoenixge-wallpaper-cyberhud (>= 1.4), phoenixge-wallpaper-forestember (>= 1.4), phoenixge-wallpaper-gamemode (>= 1.4), phoenixge-wallpaper-glasslight (>= 1.4), phoenixge-wallpaper-infernoneon (>= 1.4), phoenixge-wallpaper-kolkhigold (>= 1.4), phoenixge-wallpaper-mono (>= 1.4), phoenixge-wallpaper-obsidian (>= 1.4), phoenixge-wallpaper-sunrisepastel (>= 1.4), phoenixge-wallpaper-ember (>= 1.4), papirus-icon-theme, plasma-desktop, sddm, kde-cli-tools, systemd-timesyncd, ufw, plasma-firewall, keepassxc, plasma-vault, gocryptfs, wireguard-tools, fprintd, libpam-fprintd, power-profiles-daemon, steam-devices, gnome-network-displays, i2c-tools, qml6-module-qtquick-particles
+Recommends: distrobox, podman, python3-pyside6.qtwidgets, wine, gamemode, mangohud, timeshift, inotify-tools, python3-dbus, pkexec, btrfs-progs, kdialog, smartmontools, nvme-cli, lm-sensors, upower, switcheroo-control, libkscreen-bin, libnotify-bin, librespeed-cli, mokutil
+Filename: pool/main/phoenixge-desktop_0.2.117_all.deb
+Size: 24240976
+MD5sum: babdd18a4c8f25b172942dac0a49bcdd
+SHA1: aa08935816d5c7654e2beb655d2b494a79d6758a
+SHA256: 3f7b98b3b86f0c865b65b7c6a51ee26d81eff8a965520b22c0ba7ee406a3629d
+SHA512: 43b8c439d6fa1127e56820bb044198cad1ffe3f1da9bdaad96ac809c93b441f45641e5e33ee0b6510083b7c95e9e0fcbdb95bd46321ee3f9bc4ae6f4fb20f96d
 Homepage: https://shakogogokhia.github.io/phoenixge-updates
 Description: PhoenixGe OS desktop: themes, start menu, widgets, login screen, tools
  Everything that makes Debian + KDE Plasma into PhoenixGe OS: the 12 design themes, the PhoenixGe launcher,
