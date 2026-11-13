@@ -2,6 +2,14 @@
  "suite": "beta",
  "entries": [
   {
+   "version": "0.2.126",
+   "date": "2026-11-13",
+   "commit": "342b57969e1c8b30bb622a8c80f59af993f0f1ae",
+   "changes": [
+    "Sound: keep the FluidSynth user daemon off (it grabbed the speaker -> only Dummy Output)"
+   ]
+  },
+  {
    "version": "0.2.125",
    "date": "2026-11-13",
    "commit": "4d72d340dc61129e1ebfc89298cc41c5ead453b0",
@@ -102,5 +110,5 @@
    ]
   }
  ],
- "updated": "2026-11-13T21:27:27Z"
+ "updated": "2026-11-13T21:40:33Z"
 }
