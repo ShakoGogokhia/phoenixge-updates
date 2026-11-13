@@ -2,6 +2,14 @@
  "suite": "beta",
  "entries": [
   {
+   "version": "0.2.127",
+   "date": "2026-11-13",
+   "commit": "92897e01c927fecb01de626a12ccf4b92de3a379",
+   "changes": [
+    "Store: DeepFaceLive (one-click setup: Python 3.8 via uv, onnxruntime-gpu 1.15 + CUDA 11 wheels, menu entry)"
+   ]
+  },
+  {
    "version": "0.2.126",
    "date": "2026-11-13",
    "commit": "342b57969e1c8b30bb622a8c80f59af993f0f1ae",
@@ -110,5 +118,5 @@
    ]
   }
  ],
- "updated": "2026-11-13T21:40:33Z"
+ "updated": "2026-11-13T21:42:33Z"
 }
