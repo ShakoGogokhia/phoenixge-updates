@@ -4,48 +4,48 @@ Hash: SHA512
 Architectures: amd64 all
 Codename: beta
 Components: main
-Date: Fri, 13 Nov 2026 21:08:26 +0000
+Date: Fri, 13 Nov 2026 21:19:27 +0000
 Description: PhoenixGe OS updates (beta channel)
 Label: PhoenixGe
 Origin: PhoenixGe
 Suite: beta
 MD5Sum:
- a2f1a06864e0366dc6767b1f134cfa42             6049 changelog.json
- 91160e68a0c2759dfc09203ce45375b4            14571 main/binary-all/Packages
- 5d29cae28bc36b4122c7aa28ca3c55f0             4003 main/binary-all/Packages.gz
- 91160e68a0c2759dfc09203ce45375b4            14571 main/binary-amd64/Packages
- 5d29cae28bc36b4122c7aa28ca3c55f0             4003 main/binary-amd64/Packages.gz
+ a9e4ec876838fd88638d2de8e68bb90f             6284 changelog.json
+ 0f13b4533e27764bf8bc1ae09ec1f0bb            14571 main/binary-all/Packages
+ 57f122a50f759e345030e8d94bcaded1             3997 main/binary-all/Packages.gz
+ 0f13b4533e27764bf8bc1ae09ec1f0bb            14571 main/binary-amd64/Packages
+ 57f122a50f759e345030e8d94bcaded1             3997 main/binary-amd64/Packages.gz
 SHA1:
- a527bc48bf849adbdc1d87f728b08e3fe011329d             6049 changelog.json
- 5e502cecf308b35a0fd868400ea281fa1509a81c            14571 main/binary-all/Packages
- c5540e7e896732177264405501e053770413ac58             4003 main/binary-all/Packages.gz
- 5e502cecf308b35a0fd868400ea281fa1509a81c            14571 main/binary-amd64/Packages
- c5540e7e896732177264405501e053770413ac58             4003 main/binary-amd64/Packages.gz
+ 77345dd18d259e25b6aa4e9a606ca6fea1d06d2a             6284 changelog.json
+ ca883ef643416a75fdb4bdcd09b6dd9f432ef99f            14571 main/binary-all/Packages
+ 29d115a857d49756cec1427007d2dab45493ce7e             3997 main/binary-all/Packages.gz
+ ca883ef643416a75fdb4bdcd09b6dd9f432ef99f            14571 main/binary-amd64/Packages
+ 29d115a857d49756cec1427007d2dab45493ce7e             3997 main/binary-amd64/Packages.gz
 SHA256:
- 1146facbabfc7c41e3df3608c6204eea9a96477d37a6589ccdea103ea5dc3940             6049 changelog.json
- a72ecf2f03518d22d5dcfbda5ce714dbfb3131042cc6d8cd885bddd5487ba1d5            14571 main/binary-all/Packages
- fe4355a88527b88c92dd170cb56ee7f0b284ec33fc0a11ad5fdaa89e7a252c8f             4003 main/binary-all/Packages.gz
- a72ecf2f03518d22d5dcfbda5ce714dbfb3131042cc6d8cd885bddd5487ba1d5            14571 main/binary-amd64/Packages
- fe4355a88527b88c92dd170cb56ee7f0b284ec33fc0a11ad5fdaa89e7a252c8f             4003 main/binary-amd64/Packages.gz
+ fcb05b016256c9dc212f73c580b02045213aa90439435667646f12b70e588727             6284 changelog.json
+ bc8b62a038424001f35ddc0759938baa3ab4d1ee2a0f13974c67a6029c2596d5            14571 main/binary-all/Packages
+ 5d71bd994630e02a16ad7fb0c45fc456369d4fcad73db470614d5f34ad390e24             3997 main/binary-all/Packages.gz
+ bc8b62a038424001f35ddc0759938baa3ab4d1ee2a0f13974c67a6029c2596d5            14571 main/binary-amd64/Packages
+ 5d71bd994630e02a16ad7fb0c45fc456369d4fcad73db470614d5f34ad390e24             3997 main/binary-amd64/Packages.gz
 SHA512:
- a6c9c3243b6dd1e3680e5ee650cfbb1d7d9927509af23eea388f9fea0f7beb3c36b6c24e4e829e996553234413251c541a0676d21eabdf8ff51fb41cff805a70             6049 changelog.json
- 90f84c00058ed046a096fc69890c4c311403f37d2e70527a0233c141e8fd6a11935d1ada18966b47615eaeef173ad8825b8204f98ef150bd4b60ea0948f731de            14571 main/binary-all/Packages
- bf25e94acf152eb8a6ea02e4192dc4de2e226351f4f9b47ad62fd770fc15ce75d8ab66c07aad1542523f792b9bba78239b42699ad7dca17a50c837dc7e8a9f9f             4003 main/binary-all/Packages.gz
- 90f84c00058ed046a096fc69890c4c311403f37d2e70527a0233c141e8fd6a11935d1ada18966b47615eaeef173ad8825b8204f98ef150bd4b60ea0948f731de            14571 main/binary-amd64/Packages
- bf25e94acf152eb8a6ea02e4192dc4de2e226351f4f9b47ad62fd770fc15ce75d8ab66c07aad1542523f792b9bba78239b42699ad7dca17a50c837dc7e8a9f9f             4003 main/binary-amd64/Packages.gz
+ cf66a38b3107487e236143f0729ab867e02cce0a30d1ae301791374575fb49591ac611126753650db13e71044f08176fc15ffe67fad984f13c11772180aa98fc             6284 changelog.json
+ a344547268487650d69488cf8421484ab1dcb5bb24f4645336357e23e0d9a72c143d98376dd01d5e60cd556a476fc9e2afc2038a7fedd463c70eefad80c48e75            14571 main/binary-all/Packages
+ 50ecfb7f41ffed79515dd75cd666e32b47f0f592425ecdca524854e17781440888a32a1919fed037dd3375b6feb7de0b0954c035b23bc60b11c58742586bf0b0             3997 main/binary-all/Packages.gz
+ a344547268487650d69488cf8421484ab1dcb5bb24f4645336357e23e0d9a72c143d98376dd01d5e60cd556a476fc9e2afc2038a7fedd463c70eefad80c48e75            14571 main/binary-amd64/Packages
+ 50ecfb7f41ffed79515dd75cd666e32b47f0f592425ecdca524854e17781440888a32a1919fed037dd3375b6feb7de0b0954c035b23bc60b11c58742586bf0b0             3997 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEDH73QXKOFIfVhWpSIONJ9ApfdZEFAmr3fEoACgkQIONJ9Apf
-dZGZ2RAA3dfgKA8Yygm9RWK0gv1HykIUi7FqVZipz71QsPTDPeQmHl1iG3DGh7gx
-AROjr9Kqf8B9FYSnySB8GcSSSv0SpOVdbQ9rKte3246/3/wVwroR8ZtkdEBUsVMo
-Pi53gRRsBU6YiB9J0fikoB53LmVrfNBl9Rgp1wGwoeWbQUpPue7qZluskDlkbo7G
-UFk2+ZjgFSajIQaeCtxxH2xAI3hOrkBJXF1T4UhPflXzryp9yWgF1jeDKqx7tMN5
-dQwJKOqQNMrrOxpoiMMblrupCieJEhMpyYvRczfDp0MfX9fvzx8gQCAarJYeW7JX
-tI+Pmo5DwrFQYGxGD4CmboiHcn5hiJHBORUhnnlpaOFL7UNFePVu/p/B3DfT4My5
-C/gvAEOXAHpF29y6Q/1VQIaFZc6ZDlf/vrZoRecvhEQwfDHumQVrqhBuRaA8SAD2
-ecRvSpGDY90PaaDzCLu2gemeqKSo8Ln9b5nj/3iWAisl9Rvnx52fQ2d3EtqpBcsy
-1nxg5XxS77GMrWfNamjnqyAD/wpaeE9cYsRDgWvyVd2m46GAb9gazh3JocpjYNyD
-ChzS2uqlU3joA3wISKFX38Ydgyv9xwI1hMyfEY4UhKVlftUE2JegiMdBDFdp/8k8
-BYEAxro05OJtm50aQyaryul7xNTyQavLn2TFFQkFxSnQJGFYC7U=
-=m9jM
+iQIzBAEBCgAdFiEEDH73QXKOFIfVhWpSIONJ9ApfdZEFAmr3ft8ACgkQIONJ9Apf
+dZE6aw/9Fd6qzOUIHyd3D6ci8m47ENx6lI0byjuAvUT/pRvSJFLrkD3AOK4GKv1q
+8kMqQxaO0g1P4V1OQCGNrdJA5vsBaIcabv2sqY7ZAd3d7Y7YD5DBdy89wPw1We+6
+8Ms/dz3/20aPsko+o8nbFa8Uls96aqADHu8yU3E4IZDmNBGnoPPxof1wjIO7wmhy
+x9pa2YNB0ZEvvmfSPoEfZ0rpQKr0WZrh402NwqwO9vniTuBEJhS3a9GcKuMAUu/C
+LEC33glunmaHBUjK87eJjkVKdgmsMc90IIZkcLHEaQb0UoKVJxD6Q5efFgs+Rgx/
+Lcp8sl12NEJrSqiMVJvUD6HdTKAc1ECUVFAdXd9b89+BrTQvTGneV1tk/Yexjf2c
+BpNaw+IQt4YQN+YGIlxkGZe38/U8OtYTbHpsRed4ykO3x25xBYud+sq6fA4740e0
+pFXzNzGD+ZiJVxKY4P0usksXubIPvHtm/uUK+Qsx09w1PKK8rwsTG2UPbz1pnSOt
+dqmqD7AayHOj2h0mk/ArCHQKXZdC0oQ10dVwiXr7FbhwO5Z0FELEic0BX/giKt5j
+GGZwY6Z1uJ5vkDrau6aG/rTnWqYS24YBQ+qDI5l27bp/Fge31f6uUW5Zczv47ny7
+6tCozcrQ3c7XhLyJm4tuEwWQ4cbZJ9XgCENNs2a6PLcc9FJx+lw=
+=TFZe
 -----END PGP SIGNATURE-----

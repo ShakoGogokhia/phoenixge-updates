@@ -2,6 +2,14 @@
  "suite": "beta",
  "entries": [
   {
+   "version": "0.2.124",
+   "date": "2026-11-13",
+   "commit": "265c4fabd59b556711e9014497ce5db0e64bd68b",
+   "changes": [
+    "Timeshift rsync mode: exclude Flatpak apps/Waydroid/caches, no boot snapshots, space checks"
+   ]
+  },
+  {
    "version": "0.2.123",
    "date": "2026-11-13",
    "commit": "666901641e94da4401994887cd4eaa021d84e847",
@@ -86,5 +94,5 @@
    ]
   }
  ],
- "updated": "2026-11-13T21:08:25Z"
+ "updated": "2026-11-13T21:19:26Z"
 }
