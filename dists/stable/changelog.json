@@ -2,6 +2,42 @@
  "suite": "stable",
  "entries": [
   {
+   "version": "0.2.122",
+   "date": "2026-11-13",
+   "commit": "97d70311b81522f6d05820932e3d8ce1fe0d4110",
+   "changes": [
+    "Desktop: shortcuts to the PhoenixGe apps by default"
+   ],
+   "promoted": "2026-11-13"
+  },
+  {
+   "version": "0.2.121",
+   "date": "2026-11-13",
+   "commit": "e056c57f86333026e801e7c915552832bb2d1707",
+   "changes": [
+    "Overlay: only while a game is running (default) or always"
+   ],
+   "promoted": "2026-11-13"
+  },
+  {
+   "version": "0.2.120",
+   "date": "2026-11-13",
+   "commit": "0c3aafb554d7669608897d6413d533f474eeb6e1",
+   "changes": [
+    "FPS for games started from Flatpak launchers (Heroic, Steam, Lutris)"
+   ],
+   "promoted": "2026-11-13"
+  },
+  {
+   "version": "0.2.119",
+   "date": "2026-11-13",
+   "commit": "419effeb275a48c0c0406fe749332e8d38629a91",
+   "changes": [
+    "Install the Flatpak NVIDIA GL extension matching the host driver"
+   ],
+   "promoted": "2026-11-13"
+  },
+  {
    "version": "0.2.118",
    "date": "2026-11-13",
    "commit": "f664e8b03375aba5d8e674a760d86e3d34fecd43",
@@ -50,5 +86,5 @@
    "promoted": "2026-11-13"
   }
  ],
- "updated": "2026-11-13T20:04:42Z"
+ "updated": "2026-11-13T20:50:50Z"
 }
