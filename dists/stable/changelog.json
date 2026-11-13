@@ -2,6 +2,15 @@
  "suite": "stable",
  "entries": [
   {
+   "version": "0.2.117",
+   "date": "2026-11-13",
+   "commit": "d2fac6a0ca482d8c76b4a27bb38117cb3e260e18",
+   "changes": [
+    "Dual-boot clock fix (local RTC when Windows is present + systemd-timesyncd) and replace the laptop signing key made with the wrong clock"
+   ],
+   "promoted": "2026-11-13"
+  },
+  {
    "version": "0.2.115",
    "date": "2026-11-13",
    "commit": "cd77b280194e3ceb8105471a94d38b82c0559350",
@@ -32,5 +41,5 @@
    "promoted": "2026-11-13"
   }
  ],
- "updated": "2026-11-13T23:39:17Z"
+ "updated": "2026-11-13T19:47:49Z"
 }
