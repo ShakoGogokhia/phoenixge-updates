@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Architectures: amd64 all
+Codename: stable
+Components: main
+Date: Fri, 13 Nov 2026 08:55:02 +0000
+Label: PhoenixGe
+Origin: PhoenixGe
+Suite: stable
+MD5Sum:
+ ef8be7888a7b6edb62d5826cf08886b5             1156 main/binary-all/Packages
+ 42395ea0ba2a9dfc5b1e9c8b81ce99e8              748 main/binary-all/Packages.gz
+ ef8be7888a7b6edb62d5826cf08886b5             1156 main/binary-amd64/Packages
+ 42395ea0ba2a9dfc5b1e9c8b81ce99e8              748 main/binary-amd64/Packages.gz
+SHA1:
+ 30c682a43540c953e74ff17c5abc77c6988e6aa8             1156 main/binary-all/Packages
+ 64a37e32776ba3a4b162f8c8e38cd2307cf1f6bc              748 main/binary-all/Packages.gz
+ 30c682a43540c953e74ff17c5abc77c6988e6aa8             1156 main/binary-amd64/Packages
+ 64a37e32776ba3a4b162f8c8e38cd2307cf1f6bc              748 main/binary-amd64/Packages.gz
+SHA256:
+ 78308430a92ca0ac0bd5e0670d28424cd04ecbdd47df2ae1870482569ea257e8             1156 main/binary-all/Packages
+ 7a6c18e71fe4846c602e6783d8c1dd1afd7cc88be70a1ccbeb4cea8400608855              748 main/binary-all/Packages.gz
+ 78308430a92ca0ac0bd5e0670d28424cd04ecbdd47df2ae1870482569ea257e8             1156 main/binary-amd64/Packages
+ 7a6c18e71fe4846c602e6783d8c1dd1afd7cc88be70a1ccbeb4cea8400608855              748 main/binary-amd64/Packages.gz
+SHA512:
+ c8baf743bb53bb24c267ed158996807165073cc414ddecf123a8406679f4c67213d0e85cda6077e1eaf1a25e2fd02db224eaa748427d48a0205f3b4cc3d7b628             1156 main/binary-all/Packages
+ c7ab958b1219955195f120f7d50caa1efebec68f5519418faec4815cfece372d7f608e95b5df9d1103886b0f68853dfcd41a4cbf52f0f898ada06c5b0540ec00              748 main/binary-all/Packages.gz
+ c8baf743bb53bb24c267ed158996807165073cc414ddecf123a8406679f4c67213d0e85cda6077e1eaf1a25e2fd02db224eaa748427d48a0205f3b4cc3d7b628             1156 main/binary-amd64/Packages
+ c7ab958b1219955195f120f7d50caa1efebec68f5519418faec4815cfece372d7f608e95b5df9d1103886b0f68853dfcd41a4cbf52f0f898ada06c5b0540ec00              748 main/binary-amd64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEr4qrl4BVYk9zKcai8hO/Pa+Wi/AFAmr20GYACgkQ8hO/Pa+W
+i/ArOg//UJZLNBcB0JFZ7W1CKFs/pch1LkVp/028m4QGBbnO3gN0K6zsKjX/bUCI
+DaJs7VU0cuFHeb+XT2EIienKbtK57znTcdQdp53/2bO4Wh/BcyYWn/XY6qpLMOmA
+z4Eh46lmS7q1bCJx9LsRjBRj0bn0RQ96A4bS32Gc2ifguZRQNZqt37KjblPhjQhE
+L1onyfehsEp8QrtyNGR0dm12ymIa0OEhxFV5guVCn348l1gam0ltNz6uHJlafxyC
+i/87bfD2hxoEwDD89nVKMiQobRqnw893J3G6eN3pfJ3IfJcDmfG9j6opRB96Bj3m
+aXs9FQLa0a7mKMYZT623oz/Y5c1ccA3FENT57mPu9nct5feA/LuEMFKSW6wuw7Jk
+ek8Z64M6uzfpAOGpJCii3cvEh1AJhLmKeJuQm/vfvQCbNjbsnjWeMCIPUIUmRXNj
+1B/rp8pTQn9LzEi8t2Cgo0/QWvUcds4ndu3CDP9IrYnH5uzT7LDRqpf2pFBiMzbC
+y2hhZc1j51WmFWgL73Q5ehC1U9SZWP9XJdThK4H0BwbqThuZxiDVmOHtXQAkLFWT
+ndXjjMef/BsgNobwftDpje+9XeSarVIFz/WyDxVuk4sfpROmWoeqg4rsRSW/JTZJ
+f4ViLGRSa/DtJSFRCzQhFIcZz7RxhcbC9fe3YblaZMBMyg0KCbw=
+=+enY
+-----END PGP SIGNATURE-----

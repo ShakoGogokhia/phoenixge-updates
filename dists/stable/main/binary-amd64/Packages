@@ -1,0 +1,21 @@
+Package: phoenixge-desktop
+Architecture: all
+Version: 0.2.73
+Priority: optional
+Section: x11
+Maintainer: PhoenixGe <updates@phoenixge.invalid>
+Installed-Size: 17804
+Depends: python3, papirus-icon-theme, plasma-desktop, sddm, kde-cli-tools
+Recommends: distrobox, podman, python3-pyside6.qtwidgets, wine, gamemode, mangohud, timeshift, inotify-tools
+Filename: pool/main/phoenixge-desktop_0.2.73_all.deb
+Size: 7705500
+MD5sum: e56da5de2c10945aa552c4c1e4662960
+SHA1: 27ed0ad0a5258b4adedecc6aeb1b09c9b04204fe
+SHA256: 57ac8a04189519e94165bfce2e577bd93c46ec26ae24c372f1610d04774bd60d
+SHA512: 921e7f50209afe5ce5f0da27b666eadd8f2400fa1cdbc26e24e051860040f26f3e5d41bd5f7849a24802a02d9f479374fbd326c8108d7ea822c5a820e42531cb
+Homepage: https://shakogogokhia.github.io/phoenixge-updates
+Description: PhoenixGe OS desktop: themes, start menu, widgets, login screen, tools
+ Everything that makes Debian + KDE Plasma into PhoenixGe OS: the 12 design themes, the PhoenixGe launcher,
+ clock and desktop boards, window decorations, login screen, Toolbox, phoenix-run, first-boot helpers.
+ Updating this package updates the look and the tools without reinstalling the system.
+
