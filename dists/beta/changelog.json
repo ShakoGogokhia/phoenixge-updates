@@ -2,6 +2,14 @@
  "suite": "beta",
  "entries": [
   {
+   "version": "0.2.125",
+   "date": "2026-11-13",
+   "commit": "4d72d340dc61129e1ebfc89298cc41c5ead453b0",
+   "changes": [
+    "ChatlaxiAI: run on the NVIDIA GPU on hybrid laptops (llama.cpp Vulkan took the Intel iGPU)"
+   ]
+  },
+  {
    "version": "0.2.124",
    "date": "2026-11-13",
    "commit": "265c4fabd59b556711e9014497ce5db0e64bd68b",
@@ -94,5 +102,5 @@
    ]
   }
  ],
- "updated": "2026-11-13T21:19:26Z"
+ "updated": "2026-11-13T21:27:27Z"
 }
