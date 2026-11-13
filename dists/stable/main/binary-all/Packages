@@ -40,3 +40,24 @@ Description: PhoenixGe OS desktop: themes, start menu, widgets, login screen, to
  clock and desktop boards, window decorations, login screen, Toolbox, phoenix-run, first-boot helpers.
  Updating this package updates the look and the tools without reinstalling the system.
 
+Package: phoenixge-desktop
+Architecture: all
+Version: 0.2.77
+Priority: optional
+Section: x11
+Maintainer: PhoenixGe <updates@phoenixge.invalid>
+Installed-Size: 17872
+Depends: python3, papirus-icon-theme, plasma-desktop, sddm, kde-cli-tools
+Recommends: distrobox, podman, python3-pyside6.qtwidgets, wine, gamemode, mangohud, timeshift, inotify-tools
+Filename: pool/main/phoenixge-desktop_0.2.77_all.deb
+Size: 7712268
+MD5sum: e859e9c8a41d65cb642428ce24ca87e6
+SHA1: 40c071814758fab1a3fe18d030a92285560706c8
+SHA256: f8192ea6fd3d1fbd036f0f3e60ea57ee4626f7bc91b7aa5e38809017e85680cd
+SHA512: e34f956d8f41cccc14268348f6cc28ec24a5c7f58213b8c0064005ce9effce423b1a4ef76f6e560cc95be89e435daa2fb1533179c2b9b7fbc348857be42350b3
+Homepage: https://shakogogokhia.github.io/phoenixge-updates
+Description: PhoenixGe OS desktop: themes, start menu, widgets, login screen, tools
+ Everything that makes Debian + KDE Plasma into PhoenixGe OS: the 12 design themes, the PhoenixGe launcher,
+ clock and desktop boards, window decorations, login screen, Toolbox, phoenix-run, first-boot helpers.
+ Updating this package updates the look and the tools without reinstalling the system.
+
