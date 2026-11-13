@@ -1,0 +1,32 @@
+Architectures: amd64 all
+Codename: beta
+Components: main
+Date: Fri, 13 Nov 2026 13:22:22 +0000
+Description: PhoenixGe OS updates (beta channel)
+Label: PhoenixGe
+Origin: PhoenixGe
+Suite: beta
+MD5Sum:
+ 123de28d260266e3bdd3be04ed1113da             3920 changelog.json
+ 55d3baedaef61af1a79bb995fd4436e3            13843 main/binary-all/Packages
+ f38d893ff133f8b98cf6558db64bbf25             4002 main/binary-all/Packages.gz
+ 55d3baedaef61af1a79bb995fd4436e3            13843 main/binary-amd64/Packages
+ f38d893ff133f8b98cf6558db64bbf25             4002 main/binary-amd64/Packages.gz
+SHA1:
+ 51c364400a83cc2c585ec94d28d49026cac04633             3920 changelog.json
+ 9d09cd0d414e4f88b927e6e8448498a6a5e7b81b            13843 main/binary-all/Packages
+ bd133ca5d3e498c4a15de1c15c66b553a61dfd13             4002 main/binary-all/Packages.gz
+ 9d09cd0d414e4f88b927e6e8448498a6a5e7b81b            13843 main/binary-amd64/Packages
+ bd133ca5d3e498c4a15de1c15c66b553a61dfd13             4002 main/binary-amd64/Packages.gz
+SHA256:
+ 41eccf2d0931e63e0e617826e10755436710ab37bdaa2a07f80b23263b766f1c             3920 changelog.json
+ adaaceb4e723343a1ca2cc04bb22ac4166f2a987e53c0125f19137d0c308fdb5            13843 main/binary-all/Packages
+ 2812f2e4633b34fd07d16a7a8570b00da5b8a8358661a5ae91532d8e25f7725f             4002 main/binary-all/Packages.gz
+ adaaceb4e723343a1ca2cc04bb22ac4166f2a987e53c0125f19137d0c308fdb5            13843 main/binary-amd64/Packages
+ 2812f2e4633b34fd07d16a7a8570b00da5b8a8358661a5ae91532d8e25f7725f             4002 main/binary-amd64/Packages.gz
+SHA512:
+ 26e334afff685ce8926dd66141baebf898311c900bd31f1117a5dd4abd3f926c90506ba732f191b4d1f988ae6ecf38ce0271477de87156bfcb38517e9b67da6b             3920 changelog.json
+ b812d8978ef05c603d05254299430cb7f838a07c0e6d7ed8350c8adfe2b3a98b5c1db6572c11fd3bfefdd9d210bd99b29e988daba519477b9e073d807a2c3f3c            13843 main/binary-all/Packages
+ 17d76b51dde989103836cf712834f515f45562860e21cbf00b4c20f1ded1eb51f72976c47a0522d160910c32265c8a41c919af5a3548cd0db364cf346cefa928             4002 main/binary-all/Packages.gz
+ b812d8978ef05c603d05254299430cb7f838a07c0e6d7ed8350c8adfe2b3a98b5c1db6572c11fd3bfefdd9d210bd99b29e988daba519477b9e073d807a2c3f3c            13843 main/binary-amd64/Packages
+ 17d76b51dde989103836cf712834f515f45562860e21cbf00b4c20f1ded1eb51f72976c47a0522d160910c32265c8a41c919af5a3548cd0db364cf346cefa928             4002 main/binary-amd64/Packages.gz

@@ -1,0 +1,267 @@
+Package: phoenixge-desktop
+Architecture: all
+Version: 0.2.110
+Priority: optional
+Section: x11
+Maintainer: PhoenixGe <updates@phoenixge.invalid>
+Installed-Size: 36804
+Depends: python3, phoenixge-wallpaper-ashlight (>= 1.4), phoenixge-wallpaper-borjgali (>= 1.4), phoenixge-wallpaper-cyberhud (>= 1.4), phoenixge-wallpaper-forestember (>= 1.4), phoenixge-wallpaper-gamemode (>= 1.4), phoenixge-wallpaper-glasslight (>= 1.4), phoenixge-wallpaper-infernoneon (>= 1.4), phoenixge-wallpaper-kolkhigold (>= 1.4), phoenixge-wallpaper-mono (>= 1.4), phoenixge-wallpaper-obsidian (>= 1.4), phoenixge-wallpaper-sunrisepastel (>= 1.4), phoenixge-wallpaper-ember (>= 1.4), papirus-icon-theme, plasma-desktop, sddm, kde-cli-tools, ufw, plasma-firewall, keepassxc, plasma-vault, gocryptfs, wireguard-tools, fprintd, libpam-fprintd, power-profiles-daemon, steam-devices, gnome-network-displays, i2c-tools, qml6-module-qtquick-particles
+Recommends: distrobox, podman, python3-pyside6.qtwidgets, wine, gamemode, mangohud, timeshift, inotify-tools, python3-dbus, pkexec, btrfs-progs, kdialog, smartmontools, nvme-cli, lm-sensors, upower, switcheroo-control, libkscreen-bin, libnotify-bin, librespeed-cli, mokutil
+Filename: pool/main/phoenixge-desktop_0.2.110_all.deb
+Size: 24500364
+MD5sum: 57fcef3bbd67de79255d00c13a482cad
+SHA1: d5688b72b9ef7786dc75757f7ee62a4edcfcbb8b
+SHA256: e54f33ef6ad54e25f2042978582d463487d0efdd228f3e776b9ecc67573bceb6
+SHA512: 5a5d9264b5b44b2e09ca454c3c6c40ab4f02abb75b1266b2b96d0fa65616677b894bffe5e77122ab3716ef6e31c23d32498ce64cfa287435c7cbda82f66cd700
+Homepage: https://shakogogokhia.github.io/phoenixge-updates
+Description: PhoenixGe OS desktop: themes, start menu, widgets, login screen, tools
+ Everything that makes Debian + KDE Plasma into PhoenixGe OS: the 12 design themes, the PhoenixGe launcher,
+ clock and desktop boards, window decorations, login screen, Toolbox, phoenix-run, first-boot helpers.
+ Updating this package updates the look and the tools without reinstalling the system.
+
+Package: phoenixge-desktop
+Architecture: all
+Version: 0.2.85
+Priority: optional
+Section: x11
+Maintainer: PhoenixGe <updates@phoenixge.invalid>
+Installed-Size: 18248
+Depends: python3, papirus-icon-theme, plasma-desktop, sddm, kde-cli-tools, ufw, plasma-firewall, keepassxc, plasma-vault, gocryptfs, wireguard-tools, fprintd, libpam-fprintd, power-profiles-daemon, steam-devices, gnome-network-displays, i2c-tools, qml6-module-qtquick-particles
+Recommends: distrobox, podman, python3-pyside6.qtwidgets, wine, gamemode, mangohud, timeshift, inotify-tools
+Filename: pool/main/phoenixge-desktop_0.2.85_all.deb
+Size: 7959264
+MD5sum: 4b0cea2833f5f8f036f7d56beae6133b
+SHA1: 74c51cd9fe2935ac57ee3ffd3f5d4ed5eece5979
+SHA256: c28f5d74a6f31e9600325d01a07ca02db3c3fe92e180349e93ae292842326eff
+SHA512: c2eb9384ddd19f0227666a836c8c507e7f819d18e8a478b4d114a1a976a525ff284ee34e039e0a4908c82398b0f7998beba7f9e7300eefb8f66c22e41ec13f3b
+Homepage: https://shakogogokhia.github.io/phoenixge-updates
+Description: PhoenixGe OS desktop: themes, start menu, widgets, login screen, tools
+ Everything that makes Debian + KDE Plasma into PhoenixGe OS: the 12 design themes, the PhoenixGe launcher,
+ clock and desktop boards, window decorations, login screen, Toolbox, phoenix-run, first-boot helpers.
+ Updating this package updates the look and the tools without reinstalling the system.
+
+Package: phoenixge-desktop
+Architecture: all
+Version: 0.2.98
+Priority: optional
+Section: x11
+Maintainer: PhoenixGe <updates@phoenixge.invalid>
+Installed-Size: 33864
+Depends: python3, phoenixge-wallpaper-ashlight (>= 1.4), phoenixge-wallpaper-borjgali (>= 1.4), phoenixge-wallpaper-cyberhud (>= 1.4), phoenixge-wallpaper-forestember (>= 1.4), phoenixge-wallpaper-gamemode (>= 1.4), phoenixge-wallpaper-glasslight (>= 1.4), phoenixge-wallpaper-infernoneon (>= 1.4), phoenixge-wallpaper-kolkhigold (>= 1.4), phoenixge-wallpaper-mono (>= 1.4), phoenixge-wallpaper-obsidian (>= 1.4), phoenixge-wallpaper-sunrisepastel (>= 1.4), phoenixge-wallpaper-ember (>= 1.4), papirus-icon-theme, plasma-desktop, sddm, kde-cli-tools, ufw, plasma-firewall, keepassxc, plasma-vault, gocryptfs, wireguard-tools, fprintd, libpam-fprintd, power-profiles-daemon, steam-devices, gnome-network-displays, i2c-tools, qml6-module-qtquick-particles
+Recommends: distrobox, podman, python3-pyside6.qtwidgets, wine, gamemode, mangohud, timeshift, inotify-tools, python3-dbus, pkexec, btrfs-progs, kdialog, smartmontools, nvme-cli, lm-sensors, upower, switcheroo-control, libkscreen-bin, libnotify-bin
+Filename: pool/main/phoenixge-desktop_0.2.98_all.deb
+Size: 23850868
+MD5sum: aab838bdccfba3c4940cb15ffd7cca5f
+SHA1: 70bf10cdf49214f5dba17b54061d4e980dbab96d
+SHA256: 589d6188ce89411612eff4d60b7faea6490bd59810fe9132d260672d6259ee44
+SHA512: ed6345dba3a9abc96000d4eecd740c8e365ac0c991a68108121a6978959e8b2ed7c7c472a5c77ea20abfc2d1da89c19542872ff5a82bc5f60cecb819b6f6fa2e
+Homepage: https://shakogogokhia.github.io/phoenixge-updates
+Description: PhoenixGe OS desktop: themes, start menu, widgets, login screen, tools
+ Everything that makes Debian + KDE Plasma into PhoenixGe OS: the 12 design themes, the PhoenixGe launcher,
+ clock and desktop boards, window decorations, login screen, Toolbox, phoenix-run, first-boot helpers.
+ Updating this package updates the look and the tools without reinstalling the system.
+
+Package: phoenixge-wallpaper-ashlight
+Architecture: all
+Version: 1.4
+Priority: optional
+Section: x11
+Maintainer: PhoenixGe <updates@phoenixge.invalid>
+Installed-Size: 12748
+Breaks: phoenixge-desktop (<< 0.2.86)
+Replaces: phoenixge-desktop (<< 0.2.86)
+Filename: pool/main/phoenixge-wallpaper-ashlight_1.4_all.deb
+Size: 13015232
+MD5sum: 750db03f3228258b8ceaab1f4981e645
+SHA1: ba7f3f56ea384294b1969e5cb10688b4abb60b86
+SHA256: 00c42fc0c0095115b77eb79ebd5022406cdd840607e36448c6635fff566ad4a1
+SHA512: 2fba85ce66113acc544ffac28d47ea6da3e5eef8b2e10aaa6763657114a63806ba7497ff6d72c0092642e9dc2625a23a3e35fd019b51bea7e81adc256ef1d8dc
+Description: PhoenixGe PhoenixGe-AshLight wallpaper (every screen size up to 5K)
+
+Package: phoenixge-wallpaper-borjgali
+Architecture: all
+Version: 1.4
+Priority: optional
+Section: x11
+Maintainer: PhoenixGe <updates@phoenixge.invalid>
+Installed-Size: 14320
+Breaks: phoenixge-desktop (<< 0.2.86)
+Replaces: phoenixge-desktop (<< 0.2.86)
+Filename: pool/main/phoenixge-wallpaper-borjgali_1.4_all.deb
+Size: 14622912
+MD5sum: 96e25d93fddb737cde39f4164dcb9e00
+SHA1: 2d7892b5b413a4bd994418654c229d59ebabab42
+SHA256: 485dd160673b0d08542d1c172c46651867b01070fdeafeb012a4070d72cc66b2
+SHA512: e35b6ff2d6f9308411bee7bbd2e03cabc60df2209f98d480cffa7ae10438c08579ef08d2feb0abcca0a8d94c2d4f6a39af6980654ab3fa92bb94c6088cd5777e
+Description: PhoenixGe PhoenixGe-Borjgali wallpaper (every screen size up to 5K)
+
+Package: phoenixge-wallpaper-cyberhud
+Architecture: all
+Version: 1.4
+Priority: optional
+Section: x11
+Maintainer: PhoenixGe <updates@phoenixge.invalid>
+Installed-Size: 18760
+Breaks: phoenixge-desktop (<< 0.2.86)
+Replaces: phoenixge-desktop (<< 0.2.86)
+Filename: pool/main/phoenixge-wallpaper-cyberhud_1.4_all.deb
+Size: 19169472
+MD5sum: e0b9866518f80a77e750089eb44ada6d
+SHA1: 536d9992ae3f157e12f44ce11cb0b3de4df9fcb6
+SHA256: 30a5e8e0f1ed699818bad1aa892ebe4c09aa1db0101e8acdb1e34018e4d48a97
+SHA512: 301e8961a03137a5c9199a1850c260a0808da81d55c3e04236497129873bf6bb154773b6ef7e81c9ec048d718f4cccb076d30ed7e71be9f10aac457619f0817b
+Description: PhoenixGe PhoenixGe-CyberHUD wallpaper (every screen size up to 5K)
+
+Package: phoenixge-wallpaper-ember
+Architecture: all
+Version: 1.4
+Priority: optional
+Section: x11
+Maintainer: PhoenixGe <updates@phoenixge.invalid>
+Installed-Size: 13020
+Breaks: phoenixge-desktop (<< 0.2.86)
+Replaces: phoenixge-desktop (<< 0.2.86)
+Filename: pool/main/phoenixge-wallpaper-ember_1.4_all.deb
+Size: 13291712
+MD5sum: de0365de519adc7762be0a72074522be
+SHA1: 7b61f31ff535c31a5b9d34de855c8971d7789ec7
+SHA256: 58d0fdf8a3e8752edd07c3a0751e63ad0d7cf52a29eec171a1864daf828dccdb
+SHA512: 09a900aff6f02fbdae267eb38de8a35c58f8f8e30ada8129e69a1a24a3a81443b95cf36b1e9fcc3c5b73bdbf082bd04ec258d7faa84f173f8651fc87556a64f8
+Description: PhoenixGe PhoenixGe wallpaper (every screen size up to 5K)
+
+Package: phoenixge-wallpaper-forestember
+Architecture: all
+Version: 1.4
+Priority: optional
+Section: x11
+Maintainer: PhoenixGe <updates@phoenixge.invalid>
+Installed-Size: 12392
+Breaks: phoenixge-desktop (<< 0.2.86)
+Replaces: phoenixge-desktop (<< 0.2.86)
+Filename: pool/main/phoenixge-wallpaper-forestember_1.4_all.deb
+Size: 12656832
+MD5sum: 50afa526647bc79284915af2a0444d43
+SHA1: dd556df57f1b99750ba94d782ac999c26ed2551d
+SHA256: b4ddf3356cdd0a2f6c7ef5aa8f75054bdb1be968579c07f7ee5c429880d6e397
+SHA512: fc73242fcbde653921d832b1dc53ec3d6541bd757badc774889e5be47a5c5c9d310e9f387ab85835632c5dcc916b808c841cfbd30637ce900c8d8d6acd165a21
+Description: PhoenixGe PhoenixGe-ForestEmber wallpaper (every screen size up to 5K)
+
+Package: phoenixge-wallpaper-gamemode
+Architecture: all
+Version: 1.4
+Priority: optional
+Section: x11
+Maintainer: PhoenixGe <updates@phoenixge.invalid>
+Installed-Size: 12768
+Breaks: phoenixge-desktop (<< 0.2.86)
+Replaces: phoenixge-desktop (<< 0.2.86)
+Filename: pool/main/phoenixge-wallpaper-gamemode_1.4_all.deb
+Size: 13035712
+MD5sum: b8e5209cde991e92b4e24a471ffa0e2e
+SHA1: f7dbfb5ef2ae36a10f898e18d4b6e39a9b2ae2b7
+SHA256: 0530d1aa093372b19ebb4fb63d8e3eba85db47c34c0b34b24a8e5cc02efb878e
+SHA512: efbfd72692587de9f74bc56bceb8774410ea9e696d4b8c3e484cb85e3a89c883fa63186484beb0d09e9fd9b3cdd3ae2328cd9ae757c96a7e341f25b53bc0394f
+Description: PhoenixGe PhoenixGe-GameMode wallpaper (every screen size up to 5K)
+
+Package: phoenixge-wallpaper-glasslight
+Architecture: all
+Version: 1.4
+Priority: optional
+Section: x11
+Maintainer: PhoenixGe <updates@phoenixge.invalid>
+Installed-Size: 14228
+Breaks: phoenixge-desktop (<< 0.2.86)
+Replaces: phoenixge-desktop (<< 0.2.86)
+Filename: pool/main/phoenixge-wallpaper-glasslight_1.4_all.deb
+Size: 14530752
+MD5sum: 8bb2e9334b7160ec4094b75043c0b9f5
+SHA1: 2182fc1db64f1385111725cc47114c910f67d3cc
+SHA256: 5cd93531fa180a36fc5724c87777a7da10a34d3dd1c55155e211011a263bbb13
+SHA512: 6b27856fc93e6449b1db3b1e800576fd1553745e67bfbd3163bcbbd8cc3b633bf97c2bb55b9be7e9d36cca1819f55638944bd155922a1250e0f5a84cfe5803ea
+Description: PhoenixGe PhoenixGe-GlassLight wallpaper (every screen size up to 5K)
+
+Package: phoenixge-wallpaper-infernoneon
+Architecture: all
+Version: 1.4
+Priority: optional
+Section: x11
+Maintainer: PhoenixGe <updates@phoenixge.invalid>
+Installed-Size: 15968
+Breaks: phoenixge-desktop (<< 0.2.86)
+Replaces: phoenixge-desktop (<< 0.2.86)
+Filename: pool/main/phoenixge-wallpaper-infernoneon_1.4_all.deb
+Size: 16312512
+MD5sum: 232defc9d647382279f78ff5437bc35d
+SHA1: 633e3e03729ddf182d2c7e74cd402ed9576d44ee
+SHA256: 63d0c01d1f4caaedca0967215beff77fa1c88b8a9f0183f755c5879ab6918c1f
+SHA512: 9bd363b72135ad232681aec8e191b9c43055b96fe7da28f04111a485e3b1bb3396e7483072092aad9e1f53a2583f52901378043fcd77325034d6c424f4b2cb62
+Description: PhoenixGe PhoenixGe-InfernoNeon wallpaper (every screen size up to 5K)
+
+Package: phoenixge-wallpaper-kolkhigold
+Architecture: all
+Version: 1.4
+Priority: optional
+Section: x11
+Maintainer: PhoenixGe <updates@phoenixge.invalid>
+Installed-Size: 14144
+Breaks: phoenixge-desktop (<< 0.2.86)
+Replaces: phoenixge-desktop (<< 0.2.86)
+Filename: pool/main/phoenixge-wallpaper-kolkhigold_1.4_all.deb
+Size: 14438592
+MD5sum: 4a5559da0d5c3be32ae456137f6b9397
+SHA1: 2b037b7d5fe719b43f79aa157a95b92889f0e0f8
+SHA256: 5a4bec03e38a0c486ae9c70d92e1218f43d5e96707285f40f484b2b3207e2f77
+SHA512: 654f7ddd0e076a4e366a3dd16450d01896f647de49f88232af258795051aea81c5989fb19fc548f534caa5771d75184b2ac7a3909c9a59523bc14ef0f6f7a3b3
+Description: PhoenixGe PhoenixGe-KolkhiGold wallpaper (every screen size up to 5K)
+
+Package: phoenixge-wallpaper-mono
+Architecture: all
+Version: 1.4
+Priority: optional
+Section: x11
+Maintainer: PhoenixGe <updates@phoenixge.invalid>
+Installed-Size: 12568
+Breaks: phoenixge-desktop (<< 0.2.86)
+Replaces: phoenixge-desktop (<< 0.2.86)
+Filename: pool/main/phoenixge-wallpaper-mono_1.4_all.deb
+Size: 12830912
+MD5sum: 4f7d2514af2f845ad026994d1c16e44a
+SHA1: 47498d82dd168821f6563f0d2810f75bf712b125
+SHA256: d1434f7da0f0d55795b9290fe2f221ffe0c906db428ff0ede46696ef28220637
+SHA512: e4efbb54636141f0da0c781aa8f56d3c0c48035697bc884687e1c293005ff5beeef00b224a62071ccdcd7a64d79555536b41a301edadb18b7606e4af4a66bc7b
+Description: PhoenixGe PhoenixGe-Mono wallpaper (every screen size up to 5K)
+
+Package: phoenixge-wallpaper-obsidian
+Architecture: all
+Version: 1.4
+Priority: optional
+Section: x11
+Maintainer: PhoenixGe <updates@phoenixge.invalid>
+Installed-Size: 12476
+Breaks: phoenixge-desktop (<< 0.2.86)
+Replaces: phoenixge-desktop (<< 0.2.86)
+Filename: pool/main/phoenixge-wallpaper-obsidian_1.4_all.deb
+Size: 12738752
+MD5sum: 0fab0aa3d6f290683a6d53d86fd1b41b
+SHA1: 413be5b2ff5ba66eded2a7241887724a45f686c3
+SHA256: 94deb81403aedede90572a72cb00fcec42b23d34966c8f74ed634825a63f4836
+SHA512: 96f8dd10a1cfc4e24505bdf55e8f222fd00ee6b643427a65fab3fbbf3d8b0ac316f73f6571382e2c6109e8ad51d6e87c6ba670382fc8904c89f88c0ba27a96c0
+Description: PhoenixGe PhoenixGe-Obsidian wallpaper (every screen size up to 5K)
+
+Package: phoenixge-wallpaper-sunrisepastel
+Architecture: all
+Version: 1.4
+Priority: optional
+Section: x11
+Maintainer: PhoenixGe <updates@phoenixge.invalid>
+Installed-Size: 12880
+Breaks: phoenixge-desktop (<< 0.2.86)
+Replaces: phoenixge-desktop (<< 0.2.86)
+Filename: pool/main/phoenixge-wallpaper-sunrisepastel_1.4_all.deb
+Size: 13148352
+MD5sum: c9d92b8c6ded6670102a0e2f0063b6e6
+SHA1: 493ab57a781859e6608417bae23e4ebfa72102b2
+SHA256: 6bcbf06ebdd7377e907b8e4080329d8c0a89e5ec31a869a55129e8d6fef663a3
+SHA512: 6bb4c7cb4904035320b9e0c88d2a8e1a0ef267aa82aa945bb371b46160e0be017eb901c1baf856f8b12ccdd9bf7ae20d78ac7cebeb32d3eb000efac8af39dcca
+Description: PhoenixGe PhoenixGe-SunrisePastel wallpaper (every screen size up to 5K)
+

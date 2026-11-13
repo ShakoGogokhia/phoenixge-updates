@@ -1,0 +1,24 @@
+{
+ "suite": "beta",
+ "entries": [
+  {
+   "version": "0.2.110",
+   "date": "2026-11-13",
+   "commit": "cad5144f8e9e4d19859796a9dab82b42b20f12f9",
+   "changes": [
+    "Controllers & keys (controller test view, any pad as a virtual Xbox 360 pad outside Steam, input-remapper quick presets/macros, per-game profiles applied by phoenix-game-run) + Benchmark (\"Is my PC OK?\": 7-Zip CPU, sysbench RAM, fio disk, vkmark GPU on NVIDIA, thermals/throttling, comparison with approximate reference values, recommendations, history)",
+    "Double-click installer for .deb / AppImage / Flatpak (details + dependencies before installing, core packages protected, AppImages read without running, menu entry + uninstall) and background auto updates (security/PhoenixGe install, rest download; AC/metered/game-running conditions, time window, pause, bandwidth limit, restart notice, user Flatpak timer, Center page)",
+    "PhoenixGe Spotlight (KRunner D-Bus runners: games with covers -> phoenix-game-run, Center settings -> --page, currency with National Bank of Georgia rates) + Disk Map page (squarified treemap by file type, zoom, biggest files, safe-to-clean hints, big space users, admin scan)",
+    "Desktop & touchpad: gesture presets (PhoenixGe/Windows/Mac/Off + per-gesture choice for 3-finger swipes and pinches via a touchpad-only root reader + session agent), live touchpad settings over KWin D-Bus, per-monitor wallpapers, taskbar on every monitor (clones marked, idempotent, re-applied on hotplug)",
+    "Update channels Stable / Beta: publish-updates.sh publishes to beta by default, promote-updates.sh moves the exact same debs to stable, signed per-channel suites with changelog.json, safe pool pruning across channels; client update-channel.sh (apt pin for stable, optional downgrade with snapshot); Center \"Update channel\" page with what's new",
+    "Center navigation: groups (Look & feel, Games, Media, Apps, Devices & network, System), search over pages/cards/settings with synonyms (Ctrl+F or just type), lazy page building, jumps by page key, faint-accent card borders fixed (#rrggbbaa); Display & performance page (HDR/VRR/tearing per screen, per-game gamescope FSR/integer scaling/HDR profiles applied by phoenix-game-run, sched_ext scheduler while gaming when available); NVIDIA DRM modesetting now enabled (first boot + existing installs)",
+    "Free games & deals: Epic weekly free games (+ upcoming), GOG/Steam free-to-keep, Steam specials + CheapShark cross-store deals, wishlist with price-drop alerts (Steam wishlist import), owned games hidden, ProtonDB Linux badge; background notifier (user timer, quiet while gaming); Center page + standalone app",
+    "Center: Network & Ping (Valve relay ping, jitter/loss graph, Wi-Fi signal, DNS chooser, speed test), Hibernate (swap file/partition, resume, suspend-then-hibernate, Secure Boot check), Reset PhoenixGe (settings reset with backup; system reset keeping /home via factory snapshot or apt repair); module pages can't break the Center any more",
+    "Clips app (gallery by game, trim, vertical 9:16, Discord size presets, NVENC/VA-API/x264 export, copy/drag/webhook share) + Center \"Streaming & clips\": one-click OBS profiles for Twitch/YouTube/Kick (encoder auto, scenes, mic filters, key only in service.json 0600)",
+    "Center: Play with friends - LAN rooms by code (EasyTier P2P over public nodes, encrypted, Windows friends use the EasyTier app), one-click game servers (Minecraft Java, Terraria, CS2, Valheim) as user services with console, players, join addresses, autostart, UPnP/ufw per server",
+    "Center: Sound & camera - Clean Mic (PipeWire WebRTC noise removal + voice gate), 10-band EQ with presets + 3D headphone sound (sofa HRTF) as a smart filter, Android phone as webcam/mic (scrcpy + v4l2loopback), webcam background blur (OBS + background removal plugin, virtual camera)"
+   ]
+  }
+ ],
+ "updated": "2026-11-13T13:22:19Z"
+}
