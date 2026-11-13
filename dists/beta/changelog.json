@@ -2,6 +2,14 @@
  "suite": "beta",
  "entries": [
   {
+   "version": "0.2.121",
+   "date": "2026-11-13",
+   "commit": "e056c57f86333026e801e7c915552832bb2d1707",
+   "changes": [
+    "Overlay: only while a game is running (default) or always"
+   ]
+  },
+  {
    "version": "0.2.120",
    "date": "2026-11-13",
    "commit": "0c3aafb554d7669608897d6413d533f474eeb6e1",
@@ -62,5 +70,5 @@
    ]
   }
  ],
- "updated": "2026-11-13T20:34:36Z"
+ "updated": "2026-11-13T20:37:49Z"
 }
