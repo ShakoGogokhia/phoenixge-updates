@@ -2,6 +2,14 @@
  "suite": "beta",
  "entries": [
   {
+   "version": "0.2.118",
+   "date": "2026-11-13",
+   "commit": "f664e8b03375aba5d8e674a760d86e3d34fecd43",
+   "changes": [
+    "Fix NVIDIA driver not loading at boot (alternative pointed at the closed module) and keep the local RTC correct"
+   ]
+  },
+  {
    "version": "0.2.117",
    "date": "2026-11-13",
    "commit": "d2fac6a0ca482d8c76b4a27bb38117cb3e260e18",
@@ -38,5 +46,5 @@
    ]
   }
  ],
- "updated": "2026-11-13T19:47:04Z"
+ "updated": "2026-11-13T19:58:52Z"
 }
