@@ -2,6 +2,14 @@
  "suite": "beta",
  "entries": [
   {
+   "version": "0.2.134",
+   "date": "2026-11-14",
+   "commit": "6d9d9ccf951019ca78c62fed2e1f0bde12789412",
+   "changes": [
+    "DeepFaceLive menu: Discord tip - Video Background must be None (Discord's backgrounds fail on Linux and switch the camera off)"
+   ]
+  },
+  {
    "version": "0.2.133",
    "date": "2026-11-14",
    "commit": "6391a41f0172e11c2c3339c20a73f763fd30b614",
@@ -166,5 +174,5 @@
    ]
   }
  ],
- "updated": "2026-11-14T06:37:43Z"
+ "updated": "2026-11-14T06:42:49Z"
 }
