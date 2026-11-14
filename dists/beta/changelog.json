@@ -2,6 +2,14 @@
  "suite": "beta",
  "entries": [
   {
+   "version": "0.2.137",
+   "date": "2026-11-14",
+   "commit": "4357ef3ae455708976d175a93168bda6a6b907fa",
+   "changes": [
+    "DeepFaceLive: 'Remove beard' in Face merger - paints beard/mustache/stubble with the user's skin before the new face is merged (for beardless face models)"
+   ]
+  },
+  {
    "version": "0.2.136",
    "date": "2026-11-14",
    "commit": "7d93be4558c1ee9e7b4e9f4095c8fca8a1102972",
@@ -190,5 +198,5 @@
    ]
   }
  ],
- "updated": "2026-11-14T06:49:26Z"
+ "updated": "2026-11-14T07:14:00Z"
 }
