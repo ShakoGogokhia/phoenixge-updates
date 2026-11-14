@@ -2,6 +2,14 @@
  "suite": "beta",
  "entries": [
   {
+   "version": "0.2.132",
+   "date": "2026-11-14",
+   "commit": "c51abea8e1815e5ad6e1813011622da7ce19d4d7",
+   "changes": [
+    "DeepFaceLive: 'Use in…' menu (record, go live, OBS, Discord/Telegram/Zoom/Meet, Android phone as camera); PhoenixGe Camera always visible to apps (placeholder while DeepFaceLive is closed)"
+   ]
+  },
+  {
    "version": "0.2.131",
    "date": "2026-11-14",
    "commit": "35daa918efab36180c4c6f1bd5f09add9ba46d2e",
@@ -150,5 +158,5 @@
    ]
   }
  ],
- "updated": "2026-11-14T06:12:58Z"
+ "updated": "2026-11-14T06:27:45Z"
 }
