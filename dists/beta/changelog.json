@@ -2,6 +2,14 @@
  "suite": "beta",
  "entries": [
   {
+   "version": "0.2.138",
+   "date": "2026-11-14",
+   "commit": "868fc8d7003a6d4fc4fc0b207f822275228ac8ae",
+   "changes": [
+    "DeepFaceLive: iPhone as camera - free Larix Broadcaster app sends an SRT stream (set up by scanning a QR code), received into 'PhoenixGe Phone' and DeepFaceLive switches to it by itself"
+   ]
+  },
+  {
    "version": "0.2.137",
    "date": "2026-11-14",
    "commit": "4357ef3ae455708976d175a93168bda6a6b907fa",
@@ -198,5 +206,5 @@
    ]
   }
  ],
- "updated": "2026-11-14T07:14:00Z"
+ "updated": "2026-11-14T07:20:28Z"
 }
