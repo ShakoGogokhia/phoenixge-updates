@@ -2,6 +2,14 @@
  "suite": "beta",
  "entries": [
   {
+   "version": "0.2.141",
+   "date": "2026-11-14",
+   "commit": "9063a9d3d7afc151d3ceb105b05b6a9348d8f69c",
+   "changes": [
+    "Grow the Linux root partition into free space before it at the next boot (initramfs local-premount: e2fsck, sfdisk --move-data, resize2fs; idempotent, tested on a loop disk)"
+   ]
+  },
+  {
    "version": "0.2.140",
    "date": "2026-11-14",
    "commit": "4c4ea797b60f007af2164778ef3e0189e96e92e0",
@@ -222,5 +230,5 @@
    ]
   }
  ],
- "updated": "2026-11-14T07:37:29Z"
+ "updated": "2026-11-14T07:55:41Z"
 }
