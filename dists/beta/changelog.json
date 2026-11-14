@@ -2,6 +2,14 @@
  "suite": "beta",
  "entries": [
   {
+   "version": "0.2.135",
+   "date": "2026-11-14",
+   "commit": "7652ed0957adc0eacc758281dd5737cb02bdc688",
+   "changes": [
+    "Backups: no automatic Timeshift snapshots any more (daily schedule, pre-update and first-boot factory snapshot are opt-in in Center > Backups); existing installs switched off once"
+   ]
+  },
+  {
    "version": "0.2.134",
    "date": "2026-11-14",
    "commit": "6d9d9ccf951019ca78c62fed2e1f0bde12789412",
@@ -174,5 +182,5 @@
    ]
   }
  ],
- "updated": "2026-11-14T06:42:49Z"
+ "updated": "2026-11-14T06:47:44Z"
 }
