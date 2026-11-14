@@ -2,6 +2,14 @@
  "suite": "beta",
  "entries": [
   {
+   "version": "0.2.133",
+   "date": "2026-11-14",
+   "commit": "6391a41f0172e11c2c3339c20a73f763fd30b614",
+   "changes": [
+    "DeepFaceLive: restore the webcam selection at start (it was cleared while a browser held the camera) + notification naming the program that holds the webcam"
+   ]
+  },
+  {
    "version": "0.2.132",
    "date": "2026-11-14",
    "commit": "c51abea8e1815e5ad6e1813011622da7ce19d4d7",
@@ -158,5 +166,5 @@
    ]
   }
  ],
- "updated": "2026-11-14T06:27:45Z"
+ "updated": "2026-11-14T06:37:43Z"
 }
