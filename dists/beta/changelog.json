@@ -2,6 +2,14 @@
  "suite": "beta",
  "entries": [
   {
+   "version": "0.2.129",
+   "date": "2026-11-14",
+   "commit": "e98fc32c497ad1fc93b959e1d3a4f7439f955326",
+   "changes": [
+    "Center: Developer page - Docker databases + DBeaver, https://NAME.test (Caddy+mkcert), project templates, share localhost, phone over Wi-Fi, local AI copilot (llama.cpp + Continue), deploy, server monitor tray, secrets vault"
+   ]
+  },
+  {
    "version": "0.2.128",
    "date": "2026-11-13",
    "commit": "36b8b609940d9a421c5098514c9528dc698e25ee",
@@ -126,5 +134,5 @@
    ]
   }
  ],
- "updated": "2026-11-13T22:04:13Z"
+ "updated": "2026-11-14T06:00:03Z"
 }
