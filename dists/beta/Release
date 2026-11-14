@@ -1,32 +1,32 @@
 Architectures: amd64 all
 Codename: beta
 Components: main
-Date: Sat, 14 Nov 2026 07:20:29 +0000
+Date: Sat, 14 Nov 2026 07:28:46 +0000
 Description: PhoenixGe OS updates (beta channel)
 Label: PhoenixGe
 Origin: PhoenixGe
 Suite: beta
 MD5Sum:
- c3745c1150ab8c01ec357646d23380fd            10227 changelog.json
- 2155cf4d67cde9e3f02a0792721ce7c2            14571 main/binary-all/Packages
- f0175d7dc4d41430424d3a1f5c99a0d8             4005 main/binary-all/Packages.gz
- 2155cf4d67cde9e3f02a0792721ce7c2            14571 main/binary-amd64/Packages
- f0175d7dc4d41430424d3a1f5c99a0d8             4005 main/binary-amd64/Packages.gz
+ 6538c22caebdef695be64be41f53905e            10570 changelog.json
+ 559b7d33098312bcb29fe861102f810a            14571 main/binary-all/Packages
+ c0cbcbfc570f352f1ad5a31fdd93676b             4006 main/binary-all/Packages.gz
+ 559b7d33098312bcb29fe861102f810a            14571 main/binary-amd64/Packages
+ c0cbcbfc570f352f1ad5a31fdd93676b             4006 main/binary-amd64/Packages.gz
 SHA1:
- e2d17df201e3aaeac3479ae7ced44a7fe1554c48            10227 changelog.json
- 5e882afe5318855156b58cee8622bf69ac15c57d            14571 main/binary-all/Packages
- 3a1a26ee2befbb642481e2e3475a6f4c830f99ca             4005 main/binary-all/Packages.gz
- 5e882afe5318855156b58cee8622bf69ac15c57d            14571 main/binary-amd64/Packages
- 3a1a26ee2befbb642481e2e3475a6f4c830f99ca             4005 main/binary-amd64/Packages.gz
+ dce38752475ecac72006b53f1517736346392676            10570 changelog.json
+ 17f9187231f6c6f85682823c0ba9474c049e784f            14571 main/binary-all/Packages
+ e4b30a598eb009e16a13c93e97566c5457984c28             4006 main/binary-all/Packages.gz
+ 17f9187231f6c6f85682823c0ba9474c049e784f            14571 main/binary-amd64/Packages
+ e4b30a598eb009e16a13c93e97566c5457984c28             4006 main/binary-amd64/Packages.gz
 SHA256:
- 0b5cd0886fbe53ce717d821959471cc70eda2f700fc7a301e917f48f0383ea1d            10227 changelog.json
- 89eed0767ebc61e1a42113977fddd4f6d83b28e101a3b14d4903a7c80f74d2e8            14571 main/binary-all/Packages
- da24855e168a3a5eeeab98af5a4f102e13370f37a80e5e0b7662502d6e115e4b             4005 main/binary-all/Packages.gz
- 89eed0767ebc61e1a42113977fddd4f6d83b28e101a3b14d4903a7c80f74d2e8            14571 main/binary-amd64/Packages
- da24855e168a3a5eeeab98af5a4f102e13370f37a80e5e0b7662502d6e115e4b             4005 main/binary-amd64/Packages.gz
+ 7d4fca8f382ecae4ef32764df9b357dc17e38a9c27942511d6272b2ac44a6d99            10570 changelog.json
+ 3c33825d54be41a0a2c82c2481086ad176820e52141d91f71656fab865eebe50            14571 main/binary-all/Packages
+ 42528c10879885d6ecf980a187cd410dde155f2d3ec7629bb4429093d7d7388a             4006 main/binary-all/Packages.gz
+ 3c33825d54be41a0a2c82c2481086ad176820e52141d91f71656fab865eebe50            14571 main/binary-amd64/Packages
+ 42528c10879885d6ecf980a187cd410dde155f2d3ec7629bb4429093d7d7388a             4006 main/binary-amd64/Packages.gz
 SHA512:
- 3b2c08689a9f674310ceb6b1f04392bb04e6fc230810fd0e13c894c17131d5acee196289c2f5a8427e382a4c02e84c8b6a21d4428950524fc1f1570c75423843            10227 changelog.json
- 2c647de973d22f0d7a8673eb647b9f5b4ef7ff0fcd6099ea640035fb3893132c7ab055b1b7dd6a7c2d5bef6a8da0db101f7fced5c337540992d742503b765f46            14571 main/binary-all/Packages
- 05ea5ed875e561f198c0b9028b8e4fc44fdb61d70a165acbfb9a7b62db20de4f68a6aaae0f3032976e4f22ada186239ee1eb87eb7263cb3b853663c7c1fb52be             4005 main/binary-all/Packages.gz
- 2c647de973d22f0d7a8673eb647b9f5b4ef7ff0fcd6099ea640035fb3893132c7ab055b1b7dd6a7c2d5bef6a8da0db101f7fced5c337540992d742503b765f46            14571 main/binary-amd64/Packages
- 05ea5ed875e561f198c0b9028b8e4fc44fdb61d70a165acbfb9a7b62db20de4f68a6aaae0f3032976e4f22ada186239ee1eb87eb7263cb3b853663c7c1fb52be             4005 main/binary-amd64/Packages.gz
+ 6f9ea62af5c9143a24e21f4379fb9b1ec66c1aff70c95cabb4e27e360281910785453f34fc111ab6caa4de41d194046b6b5a3306da3f8f4a2d17f0a24b1f502a            10570 changelog.json
+ 735fa9b2a59c2bf5a2714a7189c38d63d24099c4d1ccf296c771eb3e1cc826f88d2e460b1ef94a7fef14e2b981181e44704c2da8e5471f4d7bf050897d90d697            14571 main/binary-all/Packages
+ f7e6d0b22e11cd06059280a3f83cec3825583e17575feeab77ed57f21eda3c02cd9b4ce36fcf875369e456f7792bb43b3b80b16cd485c7797115027f3dff9d15             4006 main/binary-all/Packages.gz
+ 735fa9b2a59c2bf5a2714a7189c38d63d24099c4d1ccf296c771eb3e1cc826f88d2e460b1ef94a7fef14e2b981181e44704c2da8e5471f4d7bf050897d90d697            14571 main/binary-amd64/Packages
+ f7e6d0b22e11cd06059280a3f83cec3825583e17575feeab77ed57f21eda3c02cd9b4ce36fcf875369e456f7792bb43b3b80b16cd485c7797115027f3dff9d15             4006 main/binary-amd64/Packages.gz
