@@ -2,6 +2,14 @@
  "suite": "beta",
  "entries": [
   {
+   "version": "0.2.130",
+   "date": "2026-11-14",
+   "commit": "f4113d59381f1b5c15edbb41b45e5556b6d0add7",
+   "changes": [
+    "DeepFaceLive: steady 30 fps webcam (turn off dynamic framerate, was 10 fps in dim light)"
+   ]
+  },
+  {
    "version": "0.2.129",
    "date": "2026-11-14",
    "commit": "e98fc32c497ad1fc93b959e1d3a4f7439f955326",
@@ -134,5 +142,5 @@
    ]
   }
  ],
- "updated": "2026-11-14T06:00:03Z"
+ "updated": "2026-11-14T06:10:17Z"
 }
