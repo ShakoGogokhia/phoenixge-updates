@@ -2,6 +2,14 @@
  "suite": "beta",
  "entries": [
   {
+   "version": "0.2.131",
+   "date": "2026-11-14",
+   "commit": "35daa918efab36180c4c6f1bd5f09add9ba46d2e",
+   "changes": [
+    "Store: put a desktop icon for every app installed from the PhoenixGe Store (Flatpak, Debian, scripts)"
+   ]
+  },
+  {
    "version": "0.2.130",
    "date": "2026-11-14",
    "commit": "f4113d59381f1b5c15edbb41b45e5556b6d0add7",
@@ -142,5 +150,5 @@
    ]
   }
  ],
- "updated": "2026-11-14T06:10:17Z"
+ "updated": "2026-11-14T06:12:58Z"
 }
