@@ -2,6 +2,14 @@
  "suite": "beta",
  "entries": [
   {
+   "version": "0.2.136",
+   "date": "2026-11-14",
+   "commit": "7d93be4558c1ee9e7b4e9f4095c8fca8a1102972",
+   "changes": [
+    "Start menu: search results were blank rows (AppRow got no model/index) and Enter right after typing launched the hit of an older, shorter query ('chrome' -> ChatlaxiAI)"
+   ]
+  },
+  {
    "version": "0.2.135",
    "date": "2026-11-14",
    "commit": "7652ed0957adc0eacc758281dd5737cb02bdc688",
@@ -182,5 +190,5 @@
    ]
   }
  ],
- "updated": "2026-11-14T06:47:44Z"
+ "updated": "2026-11-14T06:49:26Z"
 }
