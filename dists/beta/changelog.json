@@ -2,6 +2,14 @@
  "suite": "beta",
  "entries": [
   {
+   "version": "0.2.142",
+   "date": "2026-11-17",
+   "commit": "f519ccd528a2dde71dc7d9708a4b6191e234d458",
+   "changes": [
+    "phoenix-run: GE-Proton via umu-launcher by default, Wine for installers and as automatic fallback"
+   ]
+  },
+  {
    "version": "0.2.141",
    "date": "2026-11-14",
    "commit": "9063a9d3d7afc151d3ceb105b05b6a9348d8f69c",
@@ -230,5 +238,5 @@
    ]
   }
  ],
- "updated": "2026-11-14T07:55:41Z"
+ "updated": "2026-11-17T18:31:17Z"
 }
